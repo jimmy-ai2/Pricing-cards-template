@@ -36,7 +36,7 @@ It features multiple pricing tiers, interactive hover effects, and a highlighted
 
 ## Live Demo
 
-[Check out the Live Demo]()
+[Check out the Live Demo](https://jimmy-ai2.github.io/Pricing-cards-template/)
 
 ---
 
@@ -56,6 +56,7 @@ It features multiple pricing tiers, interactive hover effects, and a highlighted
 ---
 
 ## Screenshots
+<img width="1657" height="924" alt="pricing-cards-snap" src="https://github.com/user-attachments/assets/80b76947-bec2-485a-bbbc-00839b08fa95" />
 
 ---
 
